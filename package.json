@@ -1,0 +1,10 @@
+{
+  "name": "com.teamzero.package-directives",
+  "displayName": "TeamZero Package Directives",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "TeamZero Package Directives",
+  "keywords": [
+    "TeamZero", "Editor"
+  ]
+}
